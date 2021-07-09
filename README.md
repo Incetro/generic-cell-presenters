@@ -1,3 +1,5 @@
+![](generic-cell-presenters.png)
+
 # Generic Cell Presenters
 
 `GenericCellPresenters` is a Swift framework that simplifies dealing with heterogeneous lists of data in a `UITableView` or `UICollectionView`. Its main goal is to reduce boilerplate and to give you a pretty clear approach to control and manipulate with lists of data. 
